@@ -1,3 +1,18 @@
 print("hello world?")
 print('everybody mau-mau?')
 print('hello?')
+print("hello world")
+print('everybody mau-mau')
+print('hello')
+
+print("hello world")
+print('everybody mau-mau')
+print('hello')
+
+
+
+print("hello world")
+print('everybody mau-mau')
+print('hello')
+
+Print('print?')
